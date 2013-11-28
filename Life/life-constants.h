@@ -14,6 +14,6 @@
  * old--at least for display purposes.
  */
 
-const int kMaxAge = 12;
+const int kMaxAge = 50;
 
 #endif

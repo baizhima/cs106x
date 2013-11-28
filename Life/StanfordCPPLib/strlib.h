@@ -172,7 +172,7 @@ bool stringNeedsQuoting(const std::string & str);
 
 template <typename ValueType>
 void writeGenericValue(std::ostream & os, const ValueType & value,
-                       bool forceQuotes) {
+                       bool ) {
    os << value;
 }
 
